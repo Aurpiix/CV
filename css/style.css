@@ -305,8 +305,8 @@ ul, ol {
 }
 
 #portfolio .thumbnail img {
-  width: 100%;
-  height: 100%;
+  width: 400px;
+  height: 215px;
   filter : grayscale(100%);
   -webkit-filter : greyscale(100%);
 }
