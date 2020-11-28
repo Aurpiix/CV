@@ -44,7 +44,7 @@ ul, ol {
 /*MENU*/
 
 .navbar {
-  background: #49a2fa;
+  background: linear-gradient(45deg, rgb(49, 125, 177),rgb(27, 81, 117));
   font-size: 12px;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -82,7 +82,7 @@ ul, ol {
 
 #about {
   padding-top: 100px;
-  background : #49a2fa;
+  background :linear-gradient(45deg, rgb(49, 125, 177),rgb(27, 81, 117));
 }
 .profile-picture {
   text-align: center;
@@ -133,7 +133,7 @@ ul, ol {
 }
 
 #skills .progress-bar {
-  background: #49a2fa;
+  background: linear-gradient(to right, rgb(36, 105, 151),rgb(16, 66, 98));
 }
 
 #skills .progress h5 {
@@ -143,7 +143,7 @@ ul, ol {
 /*EXPERIENCE*/
 
 #experience {
-  background: #49a2fa;
+  background: linear-gradient(45deg, rgb(49, 125, 177),rgb(27, 81, 117));
 }
 
 #experience .heading h2 {
@@ -297,7 +297,7 @@ ul, ol {
 /*PORTFOLIO*/
 
 #portfolio {
-  background: #49a2fa;
+  background:linear-gradient(45deg, rgb(49, 125, 177),rgb(27, 81, 117));
 }
 
 #portfolio .heading h2 {
