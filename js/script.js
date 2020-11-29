@@ -9,3 +9,5 @@ $(function(){
   });
 
 })
+
+alert('Le site est en construction, merci pour votre visite !');
