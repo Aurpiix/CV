@@ -150,6 +150,10 @@ ul, ol {
   color: #fff;
 
 }
+
+.timeline li {
+      list-style: none;
+  }
 .timeline {
   padding: 30px 10px;
   position: relative;
